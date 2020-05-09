@@ -10,4 +10,4 @@ Welcome to the command-wiki wiki!
 
 
 * Find sub string in string:
- - if [[ $item == *"ty20"* ]]
+  -  if [[ $item == *"ty20"* ]]
