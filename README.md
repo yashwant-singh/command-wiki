@@ -1,2 +1,2 @@
-# command-wiki
+# Shell Command Wiki
 Wiki Command
